@@ -37,3 +37,8 @@ print(question)
 
 answer = "none"
 print(answer)
+
+your teaching is overall good but
+I'm a beginner and literally i'm not understanding as much as i expect , overall it is good , but try to make it beginner friendly
+try to accept my change please sir 
+thanks
